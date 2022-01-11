@@ -1,2 +1,5 @@
-# react-components-exp
-Some ReactJS code experiments. 
+# React Component Experiments
+
+---
+
+Some ReactJS code examples/experiments/practice. 
